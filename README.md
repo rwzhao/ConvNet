@@ -1,3 +1,5 @@
+# CNN for Matlab
+
 Copyright (C) 2014 Sergey Demyanov
 
 contact: sergey@demyanov.net
